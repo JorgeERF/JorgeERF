@@ -6,6 +6,11 @@ QA Testing, tecnologo en mercadeo, apasionado por la tecnologia y el mundo de lo
 
 ## 🛠 Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,git,github,mysql,ps,postman,wordpress)](https://skillicons.dev" />
+  </a>
+</p>
 ### Hard Skills
 - WordPress 
 - Creación y Ejecución de casos de prueba
@@ -71,6 +76,7 @@ Mindhud LA + PROtalento + Goyin
 ## Proyectos
 ## 📫 Contact 💬
 Puedes contactarme desde los siguientes enlaces 🔗
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://github.com/JorgeERF/JorgeERF/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-fernández-45857b280/)
